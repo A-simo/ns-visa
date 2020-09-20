@@ -150,15 +150,15 @@ button {
 }
 
 .img_main_header {
-	background-image: url(../src/img/main_header_img.jpg);
+	background-image: url(/src/img/main_header_img.jpg);
 }
 
 .img_greece {
-	background-image: url(../src/img/main_header_img.jpg);
+	background-image: url(/src/img/main_header_img.jpg);
 }
 
 .img_countries {
-	background-image: url(../src/img/countries_header_img_compressed.jpg);
+	background-image: url(/src/img/countries_header_img_compressed.jpg);
 }
 
 .first_block__container {
@@ -440,7 +440,7 @@ a.mansory_grid__unit:hover .mansory_grid__texts {
 }
 
 .cta_block_wrapper {
-	background-image: url(../src/img/night_city_bg.jpg);
+	background-image: url(/src/img/night_city_bg.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -472,7 +472,7 @@ a.mansory_grid__unit:hover .mansory_grid__texts {
 }
 
 .about_block__img_wrapper {
-	background-image: url(../src/img/about_img.jpg);
+	background-image: url(/src/img/about_img.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 717px;
@@ -817,7 +817,7 @@ input:focus, select:focus {
 
 .breadcrumbs a::after {
 	margin: auto 20px;
-	content: url(../src/img/arrow-right.svg);
+	content: url(/src/img/arrow-right.svg);
 }
 
 .breadcrumbs li {
@@ -905,7 +905,7 @@ input:focus, select:focus {
 	}
 
 	.about_block__img_wrapper {
-		background-image: url(../src/img/about_img_less-1000.jpg);
+		background-image: url(/src/img/about_img_less-1000.jpg);
 		height: 717px;
 		max-width: 378px;
 		min-width: 320px;
@@ -975,7 +975,7 @@ input:focus, select:focus {
 	}
 
 	.about_block__img_wrapper {
-		background-image: url(../src/img/about_img_less-1000.jpg);
+		background-image: url(/src/img/about_img_less-1000.jpg);
 		height: 636px;
 	}
 
@@ -1065,7 +1065,7 @@ input:focus, select:focus {
 	}
 
 	.cta_block_wrapper {
-		background-image: url(../src/img/night_city_bg_less_640.jpg);
+		background-image: url(/src/img/night_city_bg_less_640.jpg);
 		background-size: cover;
 		background-position: right;
 	}
