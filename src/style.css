@@ -312,7 +312,7 @@ button {
 	padding: 12px 0;
 }
 
-.header__menu_icon:hover ~ .header__menu_dropdown, .header__menu_dropdown:hover {
+.header__menu_icon:hover, .header__menu_icon:active ~ .header__menu_dropdown, .header__menu_dropdown:hover {
 	display: block;
 }
 
