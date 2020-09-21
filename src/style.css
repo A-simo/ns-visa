@@ -273,16 +273,16 @@ button {
 }
 
 
-.nav_dropdown__button:hover ~ .menu__nav-bar__dropdown, .menu__nav-bar__dropdown:hover {
+.nav_dropdown_item:hover ~ .menu__nav-bar__dropdown, .menu__nav-bar__dropdown:hover {
 	display: block;
 }
 
 
-.nav_dropdown__button:hover .arrow_up , .nav_dropdown_item:hover .arrow_up {
+.nav_dropdown_item:hover .arrow_up , .nav_dropdown_item:hover .arrow_up {
 	transform: rotateX(-180deg);
 }
 
-.nav_dropdown__button:hover {
+.nav_dropdown_item:hover {
 	color: #D0125C;
 }
 
