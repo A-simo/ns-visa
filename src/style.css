@@ -273,7 +273,7 @@ button {
 }
 
 
-.nav_dropdown_item:hover ~ .menu__nav-bar__dropdown, .menu__nav-bar__dropdown:hover {
+.nav_dropdown_item:hover .menu__nav-bar__dropdown, .menu__nav-bar__dropdown:hover {
 	display: block;
 }
 
@@ -282,7 +282,7 @@ button {
 	transform: rotateX(-180deg);
 }
 
-.nav_dropdown_item:hover {
+.nav_dropdown_item:hover .nav_dropdown__button{
 	color: #D0125C;
 }
 
