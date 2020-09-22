@@ -24,8 +24,6 @@ for (i in modalCloseIcon) {
 for (i in modalClose) {
     modalClose[i].onclick = closeModal;
 }
-// chatCloseIcon.onclick = closeModal;
-
 window.onclick = (event) => {
     if (event.target === chatModal || event.target === visaModal || event.target === requestModal ) {
         closeModal()
