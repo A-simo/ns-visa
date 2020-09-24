@@ -601,6 +601,7 @@ input, select{
 	margin-bottom: 30px;
 	font-size: 14px;
 	outline: none;
+	border-radius: 0;
 }
 
 input:focus, select:focus {
